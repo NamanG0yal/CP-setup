@@ -7,9 +7,7 @@ select adaptive theme in sublime text
 Select BREAKERS as your color scheme !! (light theme )  
 Customize the BREAKERS color scheme from the cutomizations folder  (paste it into the right pane ! )  
 ctrl  + shift  + p to install package control then install the package file headers  
-Then go to preferences and select customoize packages and then select file headers  
-From the template folder add the template in file headers settings user !!!  
-Add it to users and save exit it !! 
+ 
 
 Build system to directly compile and run c++ programs in sublime on linux. Moreover it uses c++14 directly opposed to the fact that terminal doesnt.  
 
