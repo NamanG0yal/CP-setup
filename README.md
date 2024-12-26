@@ -5,6 +5,7 @@ Competitive Programming setup for namangoyal2406
 2.) Have a proper theme (light theme always ) , able to setup the compiler and stuff !!   
 3.) Code flawlessly :D   
 ## Step to follow  :  
+### 1.) Applying the theme   : 
 Make sure you have drivers , google chrome , extensions (email id )  , mobile and ipad setup !! 
 save your rough work in onenotoe and send it to the contest folder  ,useful in analyzing contest !! 
 Download Sublime text (latest version preferred )  
@@ -12,7 +13,7 @@ Install cpp (compiler ) in your pc
 select adaptive theme in sublime text  
 Select BREAKERS as your color scheme !! (light theme )  
 Customize the BREAKERS color scheme from the cutomizations folder  (paste it into the right pane ! )  
-ctrl  + shift  + p to install package control then install the package file headers  
+ctrl  + shift  + p to install package control (use it to install the required packages  , you can either use the template option here or use the script )
  
 
 Build system to directly compile and run c++ programs in sublime on linux. Moreover it uses c++14 directly opposed to the fact that terminal doesnt.  
