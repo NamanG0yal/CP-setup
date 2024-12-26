@@ -1,5 +1,5 @@
 # CP-setup
-Competitive Programming setup for namangoyal2406  
+Competitive Programming setup of Naman Goyal   
 ## Objectives :   
 1.) you should be able to create folders for one contest    
 2.) Have a proper theme (light theme always ) , able to setup the compiler and stuff !!   
