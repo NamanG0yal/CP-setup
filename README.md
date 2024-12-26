@@ -1,6 +1,8 @@
 # CP-setup
 Competitive Programming setup for namangoyal2406  
 ## Step to follow  :  
+Make sure you have drivers , google chrome , extensions (email id )  , mobile and ipad setup !! 
+save your rough work in onenotoe and send it to the contest folder  ,useful in analyzing contest !! 
 Download Sublime text (latest version preferred )  
 Install cpp (compiler ) in your pc  
 select adaptive theme in sublime text  
