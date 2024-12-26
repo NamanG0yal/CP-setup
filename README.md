@@ -15,8 +15,12 @@ Select BREAKERS as your color scheme !! (light theme )
 Customize the BREAKERS color scheme from the cutomizations folder  (paste it into the right pane ! )  
 ctrl  + shift  + p to install package control (use it to install the required packages  , you can either use the template option here or use the script )   
 moreover windows theme is just blue accent color of your choice and backgruond is the color black !!   
+
+### 2.) Generating the files and folders for a test   
+copy the make_prob.bat to your cp folder 
+just run .\make_prob.bat to generate the folder by the contest name and subfolders based on number of problems with its input and output file !! 
  
-### 2.) Running the code from input.in and directing the output to output.in  
+### 3.) Running the code from input.in and directing the output to output.in  
 Build system to directly compile and run c++ programs in sublime on linux. Moreover it uses c++14 directly opposed to the fact that terminal doesnt.  
 
 Instructions :  
