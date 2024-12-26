@@ -15,7 +15,7 @@ Select BREAKERS as your color scheme !! (light theme )
 Customize the BREAKERS color scheme from the cutomizations folder  (paste it into the right pane ! )  
 ctrl  + shift  + p to install package control (use it to install the required packages  , you can either use the template option here or use the script )
  
-
+### 2.) Running the code from input.in and directing the output to output.in  
 Build system to directly compile and run c++ programs in sublime on linux. Moreover it uses c++14 directly opposed to the fact that terminal doesnt.  
 
 Instructions :  
