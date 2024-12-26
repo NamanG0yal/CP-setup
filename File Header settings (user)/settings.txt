@@ -1,0 +1,42 @@
+{
+    "author": "Naman Goyal", 
+    "use_date_on_save": true,
+    "date_format": "%d.%m.%Y %H:%M:%S", 
+    "template": {
+        "cpp": [
+            "/**",
+            " *   Author: ${author}",
+            " *   Created: ${date}",
+            "**/",
+            "",
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "",
+            "#define FAST_IO ios::sync_with_stdio(false); cin.tie(nullptr);",
+            "",
+
+            "",
+            "// Debugging tools",
+            "#ifndef ONLINE_JUDGE",
+            "#define debug(x) cerr << #x << \" \" ; _print(x); cerr << endl;",
+            "#else",
+            "#define debug(x)",
+            "#endif",
+            "",
+
+            "void solve() {",
+            
+            "}",
+            "",
+            "int main() {",
+            "    FAST_IO;",
+            "    long long t = 1;",
+            "    cin >> t; ",
+            "    while (t--) {",
+            "        solve();",
+            "    }",
+            "    return 0;",
+            "}"
+        ]
+    }
+}
