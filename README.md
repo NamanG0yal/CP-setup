@@ -1,9 +1,9 @@
 # CP-setup
 Competitive Programming setup for namangoyal2406  
 ## Objectives :   
-1.) you should be able to create folders for one contest  
-2.) Have a proper theme (light theme always ) , able to setup the compiler and stuff !! 
-3.) Code flawlessly :D
+1.) you should be able to create folders for one contest    
+2.) Have a proper theme (light theme always ) , able to setup the compiler and stuff !!   
+3.) Code flawlessly :D   
 ## Step to follow  :  
 Make sure you have drivers , google chrome , extensions (email id )  , mobile and ipad setup !! 
 save your rough work in onenotoe and send it to the contest folder  ,useful in analyzing contest !! 
