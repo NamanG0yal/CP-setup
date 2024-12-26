@@ -17,7 +17,7 @@ ctrl  + shift  + p to install package control (use it to install the required pa
 moreover windows theme is just blue accent color of your choice and backgruond is the color black !!   
 
 ### 2.) Generating the files and folders for a test   
-copy the make_prob.bat to your cp folder 
+copy the make_prob.bat and template.txt to your cp folder 
 just run .\make_prob.bat to generate the folder by the contest name and subfolders based on number of problems with its input and output file !! 
  
 ### 3.) Running the code from input.in and directing the output to output.in  
